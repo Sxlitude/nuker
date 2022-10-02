@@ -20,5 +20,11 @@
 - Bot settings are optional in that file.
 
 #### Need help?
-- You can open an issue for suggestions or help with something related to the nuker.
+You can open an issue for suggestions or help with something related to the nuker.
 > :grey_question: You can also try my [antinuke bot](https://github.com/sxlitude/antinuke), that is capable of stopping & recovering nukes even from nukers like lithium, alacrity, etc.
+
+#### More repos by Sxlitude
+- [Antinuke Bot](https://github.com/sxlitude/antinuke)
+A multiguild discord bot that has a powerful antinuke system with recovery features
+- [Bhagwad Geeta Lib](https://github.com/sxlitude/bhagwadGeeta)
+A library based on the Song of God. Get verses, commentaries, translations and much more
