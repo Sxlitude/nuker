@@ -1,5 +1,5 @@
 ### Discord Server Nuker
-- This nuker is a better and cleaner version of the previous one. You can either run it locally or on replit.
+This nuker is a better and cleaner version of the previous one. You can either run it locally or on replit
 
 #### Features
 - Mass Channel Create & Delete
